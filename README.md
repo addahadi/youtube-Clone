@@ -53,11 +53,11 @@ The platform is designed to be responsive and provides a seamless experience on 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/videostreamingplatform.git
+    git clone https://github.com/addahadi/youtube-Clone.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd videostreamingplatform
+    cd youtube-Clone
     ```
 3. Open `index.html` in your preferred web browser:
     ```bash
